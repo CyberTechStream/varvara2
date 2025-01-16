@@ -1,0 +1,44 @@
+header {
+    margin: 0;
+
+    background-color: rgb(63, 161, 79);
+    padding: 20px;
+    border-bottom: 3px double white;
+}
+
+header a {
+    background-color: rgb(28, 96, 28);
+    padding: 10px;
+    color: black;
+    margin: 5px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+main {
+    margin: 0;
+    background-color: rgb(175, 136, 28);
+    font-size: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(52, 156, 134);
+
+
+}
+
+
+main img {
+
+    border: 10px solid black;
+}
+
+.title {
+    color: brown;
+
+}
+
+h3{
+background-color: blanchedalmond;
+}
